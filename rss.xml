@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TheFourWorlds]]></title>
         <description><![CDATA[TheFourWorlds]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thefourworlds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 21:47:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 21:49:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thefourworlds/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"Hidden Histories of the Four Worlds" is a new multi-volume epic that is in early stages of development by author / editor Christopher Jon Bennem and co-author / historian Iain J. Christopher.</p>]]></description>
-            <link>undefinedhidden-histories-of-the-four-worlds-is-a-new-multi-volume/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf6a1ed4-8384-4ff9-91b2-f072077bd151.jpg">]]></description>
+            <link>https://thegrid.ai/thefourworlds/hidden-histories-of-the-four-worlds-is-a-new-multi-volume/index.html</link>
             <guid isPermaLink="false">89d0c900-6eda-4310-8e5a-442fc25b22b2</guid>
-            <pubDate>Fri, 29 Apr 2016 21:47:07 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2016 21:49:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
