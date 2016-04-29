@@ -1,0 +1,28 @@
+name: TheFourWorlds
+favicon: null
+layout_spectrum: 0.38603041088208556
+typography_spectrum: 0.01158014009706676
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6441097324714065
+  lightness: 0.19837473472580314
+  saturation: 0.6847790733445436
+  rhythmicContrast: 0.4338110601529479
+purpose: []
